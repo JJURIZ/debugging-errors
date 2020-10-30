@@ -19,3 +19,8 @@ RESOURCE: CHECK YOUR README 📖
 
 // Error 1
 
+const breakMe = (n) => {
+    breakMe(n * 2)
+};
+
+console.log(breakMe(3));

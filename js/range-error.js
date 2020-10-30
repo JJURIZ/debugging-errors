@@ -12,7 +12,7 @@ RESOURCE: CHECK YOUR README 📖
 ****************************************************************************/
 
 // Error 1
-
+console.log('abc'.repeat(-1)); // 'abc'
 // Error 2
 
 // Error 3
